@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-letter-of-response-reviewer
-description: "Structure code review responses with professional, evidence-led peer etiquette." Use this when working on fitzpatrick letter of response reviewer.
+description: "Structure code review responses with professional, evidence-led peer etiquette. Use this when working on fitzpatrick letter of response reviewer."
 category: "Writing & Communication"
 triggers:
   - "letter of response reviewer"
